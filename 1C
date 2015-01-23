@@ -1,0 +1,7 @@
+public void reverseMatrix();
+reverseAllRows();
+for (int m = 0; m < mat.length; m++){
+    int temp = mat[m];
+    mat[m] = mat[m-1];
+    mat[m-1] = temp;
+}
