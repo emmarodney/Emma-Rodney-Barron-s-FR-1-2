@@ -1,0 +1,4 @@
+public void reverseAllRows(){
+for(int j = 0; j < row.length; j++);
+reverseArray();
+}
