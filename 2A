@@ -1,0 +1,10 @@
+public List<Integer> getBlankPositions()
+    List<Integer> Blank = new ArrayList();
+    for(int i = o; i<Sentence/length; i++){
+        if(Sentence.substring(i, i+1) = " "){
+            System.out.println(substring([i,i+1]);
+        }
+        else{
+            system.out.println("[ ]");
+        }
+    }
